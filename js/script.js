@@ -90,8 +90,12 @@ console.log(isChecked && isClose);
 
 /////////////// 6 urok ///////////////
 
+/*
 
-
+git init / priswoenie 
+git config --local user.name "Sanych" /imia / local ili global
+git config --local user.email leshka.gazuk@mail.ru /email / local ili global
+git add -A / dobavit vse faily
 
 
 
